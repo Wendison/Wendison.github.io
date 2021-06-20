@@ -21,21 +21,19 @@ Publications
 Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2011.01678)][[demo](https://wendison.github.io/VC-DSR-AC-demo/)]
 - Songxiang Liu, Yuewen Cao, **Disong Wang**, Xixin Wu, Xunying Liu, Helen Meng, "Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling", *IEEE/ACM Transactions on Audio Speech and Language Processing, 2021*. [[paper](https://arxiv.org/abs/2009.02725)][[code](https://github.com/liusongxiang/ppg-vc)][[demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)]
 - **Disong Wang**, Liqun Deng, Yang Zhang, Nianzu Zheng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "FCL-Taco2: Towards Fast, Controllable and Lightweight Text-to-Speech synthesis", *ICASSP 2021*. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/ICASSP2021-FCL-taco2-final-version.pdf)][[code](https://github.com/Wendison/FCL-taco2)][[demo](https://wendison.github.io/FCL-taco2-demo/)]
-- **Disong Wang**, Jianwei Yu, Xixin Wu, Songxiang Liu, Lifa Sun, Xunying Liu, Helen Meng, "End-To-End Voice Conversion Via Cross-Modal Knowledge Distillation for Dysarthric Speech Reconstruction", ICASSP 2020. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/E2E-DSR-ICASSP2020.pdf)][[demo](https://wendison.github.io/E2E-DSR-demo/)] 
-- Songxiang Liu, **Disong Wang**, Yuewen Cao, Lifa Sun, Xixin Wu, Shiyin Kang, Zhiyong Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng, "End-to-End Accent Conversion Without Using Native Utterances", ICASSP 2020. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/ICASSP2020_e2eAC%20(1).pdf)][[demo](https://liusongxiang.github.io/end2endAC/)] 
+- **Disong Wang**, Jianwei Yu, Xixin Wu, Songxiang Liu, Lifa Sun, Xunying Liu, Helen Meng, "End-To-End Voice Conversion Via Cross-Modal Knowledge Distillation for Dysarthric Speech Reconstruction", *ICASSP 2020*. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/E2E-DSR-ICASSP2020.pdf)][[demo](https://wendison.github.io/E2E-DSR-demo/)] 
+- Songxiang Liu, **Disong Wang**, Yuewen Cao, Lifa Sun, Xixin Wu, Shiyin Kang, Zhiyong Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng, "End-to-End Accent Conversion Without Using Native Utterances", *ICASSP 2020*. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/ICASSP2020_e2eAC%20(1).pdf)][[demo](https://liusongxiang.github.io/end2endAC/)] 
 
 **Disorded speech recognition and detection**
 - **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "Unsupervised Domain Adaptation for Dysarthric Speech Detection via
 Domain Adversarial Training and Mutual Information Minimization", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)]
 - **Disong Wang**, Jianwei Yu, Xixin Wu, Lifa Sun, Xunying Liu, Helen Meng, "Improved End-to-End Dysarthric Speech Recognition via Meta-learning Based Model Re-initialization", *ISCSLP 2021*. [[paper](https://arxiv.org/abs/2011.01686)]
-- 
-2. 
-3. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-4. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-5. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-6. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-7. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-8. Check status by going to the repository settings, in the "GitHub pages" section
+
+**Speaker DOA estimation, speech dereverberation and speaker verification**
+- **Disong Wang**, Yuexian Zou, "Joint Noise and Reverberation Adaptive Learning for Robust Speaker DOA Estimation with An Acoustic Vector Sensor", *Interspeech 2018*. [[paper](https://isca-speech.org/archive/Interspeech_2018/pdfs/1135.pdf)]
+- **Disong Wang**, Yuexian Zou, Wenwu Wang, "Learning soft mask with DNN and DNN-SVM for multi-speaker DOA estimation using an acoustic vector sensor", *Journal of the Franklin Institute, 2018*. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0016003217302259)]
+- **Disong Wang**, Yuexian Zou, Wei Shi, "A Deep Convolutional Encoder-Decoder Model for Robust Speech Dereverberation", *DSP 2017*. [[paper](https://ieeexplore.ieee.org/document/8096126)]
+- **Disong Wang**, Yuexian Zou, Junhong Liu, Yichi Huang, "A Robust DBN-vector based Speaker Verification System under Channel Mismatch Conditions", *DSP 2016*. [[paper](https://ieeexplore.ieee.org/document/7868523)]
 
 Site-wide configuration
 ------
