@@ -17,7 +17,11 @@ Publications
 ======
 Voice conversion & text-to-speech synthesis
 ------
-- Disong Wang, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", Interspeech 2021. [ [paper](https://arxiv.org/abs/) | [code](https://github.com/Wendison/VQMIVC) | [demo](https://wendison.github.io/VQMIVC-demo/) ]<br/>
+- VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion<br/>
+    **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng<br/>
+    *Interspeech 2021*<br/>
+    [ [paper](https://arxiv.org/abs/) | [code](https://github.com/Wendison/VQMIVC) | [demo](https://wendison.github.io/VQMIVC-demo/) ]<br/>
+    
     
     
     
