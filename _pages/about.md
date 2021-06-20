@@ -15,8 +15,15 @@ About me
 I'm Disong Wang, a third-year PhD student from [Human-Computer Communications Laboratory (HCCL)](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk
 ), my supervisor is [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/). My current research interests include voice conversion, text-to-speech synthesis, automatic speech recognition, etc.  
 
-Getting started
+Publications
 ======
+Voice conversion & text-to-speech synthesis
+------
+- **VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion**<br/>[ [paper](https://arxiv.org/abs/) | [code](https://github.com/Wendison/VQMIVC) | [demo](https://wendison.github.io/VQMIVC-demo/)]
+    <u>Disong Wang</u>, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng<br/>
+    *Interspeech 2021*<br/>
+    
+    
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
