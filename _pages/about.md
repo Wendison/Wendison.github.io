@@ -16,7 +16,7 @@ I'm Disong Wang, a third-year PhD student from [Human-Computer Communications La
 Publications
 ======
 **Voice conversion & text-to-speech synthesis**
-1. Disong Wang, "VQMIVC", Interspeech 2021. [ [pdf](https://arxiv.org/abs/2011.00406), [code](https://github.com/Alexander-H-Liu/NPC) ]
+1. Disong Wang, "VQMIVC", Interspeech 2021. [ [pdf](https://arxiv.org/abs/2011.00406) || [code](https://github.com/Alexander-H-Liu/NPC) ]
 2. 
 3. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 4. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
