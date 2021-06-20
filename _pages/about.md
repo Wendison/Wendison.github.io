@@ -29,10 +29,13 @@ Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2
 Domain Adversarial Training and Mutual Information Minimization", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)]
 - **Disong Wang**, Jianwei Yu, Xixin Wu, Lifa Sun, Xunying Liu, Helen Meng, "Improved End-to-End Dysarthric Speech Recognition via Meta-learning Based Model Re-initialization", *ISCSLP 2021*. [[paper](https://arxiv.org/abs/2011.01686)]
 
-**III. Speaker DOA estimation, speech dereverberation and speaker verification**
+**III. Miscellaneous (Speaker DOA estimation, speech dereverberation, speaker verification, etc.)**
 - **Disong Wang**, Yuexian Zou, "Joint Noise and Reverberation Adaptive Learning for Robust Speaker DOA Estimation with An Acoustic Vector Sensor", *Interspeech 2018*. [[paper](https://isca-speech.org/archive/Interspeech_2018/pdfs/1135.pdf)]
 - **Disong Wang**, Yuexian Zou, Wenwu Wang, "Learning soft mask with DNN and DNN-SVM for multi-speaker DOA estimation using an acoustic vector sensor", *Journal of the Franklin Institute, 2018*. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0016003217302259)]
 - **Disong Wang**, Yuexian Zou, Wei Shi, "A Deep Convolutional Encoder-Decoder Model for Robust Speech Dereverberation", *DSP 2017*. [[paper](https://ieeexplore.ieee.org/document/8096126)]
 - **Disong Wang**, Yuexian Zou, Junhong Liu, Yichi Huang, "A Robust DBN-vector based Speaker Verification System under Channel Mismatch Conditions", *DSP 2016*. [[paper](https://ieeexplore.ieee.org/document/7868523)]
+- **Disong Wang**, Xiansheng Guo, Yuexian Zou, "Accurate and Robust Device-Free Localization Approach via Sparse Representation in Presence of Noise and Outliers", *DSP 2016*. [[paper](https://ieeexplore.ieee.org/document/7868545)]
+
+
 
 
