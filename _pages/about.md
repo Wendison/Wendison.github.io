@@ -15,7 +15,7 @@ I'm Disong Wang, a third-year PhD student from [Human-Computer Communications La
 
 Publications
 ======
-**Voice conversion & text-to-speech synthesis**
+**I. Voice conversion & text-to-speech synthesis**
 - **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)][[code](https://github.com/Wendison/VQMIVC)][[demo](https://wendison.github.io/VQMIVC-demo/)]
 - **Disong Wang**, Songxiang Liu, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, "Learning Explicit Prosody Models and Deep Speaker Embeddings for
 Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2011.01678)][[demo](https://wendison.github.io/VC-DSR-AC-demo/)]
@@ -24,12 +24,12 @@ Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2
 - **Disong Wang**, Jianwei Yu, Xixin Wu, Songxiang Liu, Lifa Sun, Xunying Liu, Helen Meng, "End-To-End Voice Conversion Via Cross-Modal Knowledge Distillation for Dysarthric Speech Reconstruction", *ICASSP 2020*. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/E2E-DSR-ICASSP2020.pdf)][[demo](https://wendison.github.io/E2E-DSR-demo/)] 
 - Songxiang Liu, **Disong Wang**, Yuewen Cao, Lifa Sun, Xixin Wu, Shiyin Kang, Zhiyong Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng, "End-to-End Accent Conversion Without Using Native Utterances", *ICASSP 2020*. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/ICASSP2020_e2eAC%20(1).pdf)][[demo](https://liusongxiang.github.io/end2endAC/)] 
 
-**Disorded speech recognition and detection**
+**II. Disorded speech recognition and detection**
 - **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "Unsupervised Domain Adaptation for Dysarthric Speech Detection via
 Domain Adversarial Training and Mutual Information Minimization", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)]
 - **Disong Wang**, Jianwei Yu, Xixin Wu, Lifa Sun, Xunying Liu, Helen Meng, "Improved End-to-End Dysarthric Speech Recognition via Meta-learning Based Model Re-initialization", *ISCSLP 2021*. [[paper](https://arxiv.org/abs/2011.01686)]
 
-**Speaker DOA estimation, speech dereverberation and speaker verification**
+**III. Speaker DOA estimation, speech dereverberation and speaker verification**
 - **Disong Wang**, Yuexian Zou, "Joint Noise and Reverberation Adaptive Learning for Robust Speaker DOA Estimation with An Acoustic Vector Sensor", *Interspeech 2018*. [[paper](https://isca-speech.org/archive/Interspeech_2018/pdfs/1135.pdf)]
 - **Disong Wang**, Yuexian Zou, Wenwu Wang, "Learning soft mask with DNN and DNN-SVM for multi-speaker DOA estimation using an acoustic vector sensor", *Journal of the Franklin Institute, 2018*. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0016003217302259)]
 - **Disong Wang**, Yuexian Zou, Wei Shi, "A Deep Convolutional Encoder-Decoder Model for Robust Speech Dereverberation", *DSP 2017*. [[paper](https://ieeexplore.ieee.org/document/8096126)]
