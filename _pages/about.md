@@ -15,14 +15,8 @@ I'm Disong Wang, a third-year PhD student from [Human-Computer Communications La
 
 Publications
 ======
-
 Voice conversion & text-to-speech synthesis
 ------
-- **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion, Interspeech 2021. [ [paper](https://arxiv.org/abs/) | [code](https://github.com/Wendison/VQMIVC) | [demo](https://wendison.github.io/VQMIVC-demo/) ]<br/>
-    
-    
-    
-    
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
