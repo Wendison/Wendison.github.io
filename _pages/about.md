@@ -18,8 +18,16 @@ Publications
 **Voice conversion & text-to-speech synthesis**
 - **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)][[code](https://github.com/Wendison/VQMIVC)][[demo](https://wendison.github.io/VQMIVC-demo/)]
 - **Disong Wang**, Songxiang Liu, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, "Learning Explicit Prosody Models and Deep Speaker Embeddings for
-Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)][[demo](https://wendison.github.io/VC-DSR-AC-demo/)]
-    
+Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2011.01678)][[demo](https://wendison.github.io/VC-DSR-AC-demo/)]
+- Songxiang Liu, Yuewen Cao, **Disong Wang**, Xixin Wu, Xunying Liu, Helen Meng, "Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling", *IEEE/ACM Transactions on Audio Speech and Language Processing, 2021*. [[paper](https://arxiv.org/abs/2009.02725)][[code](https://github.com/liusongxiang/ppg-vc)][[demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)]
+- **Disong Wang**, Liqun Deng, Yang Zhang, Nianzu Zheng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "FCL-Taco2: Towards Fast, Controllable and Lightweight Text-to-Speech synthesis", *ICASSP 2021*. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/ICASSP2021-FCL-taco2-final-version.pdf)][[code](https://github.com/Wendison/FCL-taco2)][[demo](https://wendison.github.io/FCL-taco2-demo/)]
+- **Disong Wang**, Jianwei Yu, Xixin Wu, Songxiang Liu, Lifa Sun, Xunying Liu, Helen Meng, "End-To-End Voice Conversion Via Cross-Modal Knowledge Distillation for Dysarthric Speech Reconstruction", ICASSP 2020. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/E2E-DSR-ICASSP2020.pdf)][[demo](https://wendison.github.io/E2E-DSR-demo/)] 
+- Songxiang Liu, **Disong Wang**, Yuewen Cao, Lifa Sun, Xixin Wu, Shiyin Kang, Zhiyong Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng, "End-to-End Accent Conversion Without Using Native Utterances", ICASSP 2020. [[paper](https://www1.se.cuhk.edu.hk/~hccl/publications/pub/ICASSP2020_e2eAC%20(1).pdf)][[demo](https://liusongxiang.github.io/end2endAC/)] 
+**Disorded speech recognition and detection**
+- **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "Unsupervised Domain Adaptation for Dysarthric Speech Detection via
+Domain Adversarial Training and Mutual Information Minimization", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)]
+- **Disong Wang**, Jianwei Yu, Xixin Wu, Lifa Sun, Xunying Liu, Helen Meng, "Improved End-to-End Dysarthric Speech Recognition via Meta-learning Based Model Re-initialization", *ISCSLP 2021*. [[paper](https://arxiv.org/abs/2011.01686)]
+- 
 2. 
 3. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 4. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
