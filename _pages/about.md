@@ -17,6 +17,8 @@ Publications
 ======
 **Voice conversion & text-to-speech synthesis**
 - **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)][[code](https://github.com/Wendison/VQMIVC)][[demo](https://wendison.github.io/VQMIVC-demo/)]
+- **Disong Wang**, Songxiang Liu, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, "Learning Explicit Prosody Models and Deep Speaker Embeddings for
+Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)][[demo](https://wendison.github.io/VC-DSR-AC-demo/)]
     
 2. 
 3. Register a GitHub account if you don't have one and confirm your e-mail (required!)
