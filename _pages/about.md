@@ -14,7 +14,7 @@ I'm Disong Wang, a third-year PhD student from [Human-Computer Communications La
 
 # Publications
 **I. Voice conversion & text-to-speech synthesis**
-- **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)][[code](https://github.com/Wendison/VQMIVC)][[demo](https://wendison.github.io/VQMIVC-demo/)]
+- **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2106.10132)][[code](https://github.com/Wendison/VQMIVC)][[demo](https://wendison.github.io/VQMIVC-demo/)]
 - **Disong Wang**, Songxiang Liu, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, "Learning Explicit Prosody Models and Deep Speaker Embeddings for
 Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2011.01678)][[demo](https://wendison.github.io/VC-DSR-AC-demo/)]
 - Songxiang Liu, Yuewen Cao, **Disong Wang**, Xixin Wu, Xunying Liu, Helen Meng, "Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling", *IEEE/ACM Transactions on Audio Speech and Language Processing, 2021*. [[paper](https://arxiv.org/abs/2009.02725)][[code](https://github.com/liusongxiang/ppg-vc)][[demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)]
@@ -24,7 +24,7 @@ Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2
 
 **II. Disorded speech recognition and detection**
 - **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "Unsupervised Domain Adaptation for Dysarthric Speech Detection via
-Domain Adversarial Training and Mutual Information Minimization", *Interspeech 2021*. [[paper](https://arxiv.org/abs/)]
+Domain Adversarial Training and Mutual Information Minimization", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2106.10127)]
 - **Disong Wang**, Jianwei Yu, Xixin Wu, Lifa Sun, Xunying Liu, Helen Meng, "Improved End-to-End Dysarthric Speech Recognition via Meta-learning Based Model Re-initialization", *ISCSLP 2021*. [[paper](https://arxiv.org/abs/2011.01686)]
 
 **III. Miscellaneous (Speaker DOA estimation, speech dereverberation, speaker verification, etc.)**
