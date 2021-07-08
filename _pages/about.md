@@ -14,7 +14,7 @@ I'm Disong Wang, a third-year PhD student from [Human-Computer Communications La
 
 # Publications
 **I. Voice conversion & text-to-speech synthesis**
-- **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", ```diff Interspeech 2021```. [[paper](https://arxiv.org/abs/2106.10132)][[code](https://github.com/Wendison/VQMIVC)][[demo](https://wendison.github.io/VQMIVC-demo/)]
+- **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", [Interspeech 2021](https://via.placeholder.com/15/f03c15/000000?text=+). [[paper](https://arxiv.org/abs/2106.10132)][[code](https://github.com/Wendison/VQMIVC)][[demo](https://wendison.github.io/VQMIVC-demo/)]
 - **Disong Wang**, Songxiang Liu, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, "Learning Explicit Prosody Models and Deep Speaker Embeddings for
 Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2011.01678)][[demo](https://wendison.github.io/VC-DSR-AC-demo/)]
 - Songxiang Liu, Yuewen Cao, **Disong Wang**, Xixin Wu, Xunying Liu, Helen Meng, "Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling", *IEEE/ACM Transactions on Audio Speech and Language Processing, 2021*. [[paper](https://arxiv.org/abs/2009.02725)][[code](https://github.com/liusongxiang/ppg-vc)][[demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)]
