@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About-me 
-I'm Disong Wang, a third-year PhD student from [Human-Computer Communications Laboratory (HCCL)](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory/) of [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk
+I'm Disong Wang, a fourth-year PhD student from [Human-Computer Communications Laboratory (HCCL)](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory/) of [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk
 ), supervised by [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/). My current research interests include voice conversion, text-to-speech synthesis, automatic speech recognition, etc. Before joining CUHK, I received my M.S. and B.S. degrees from [Peking University](https://english.pku.edu.cn/) (PKU, supervised by [Prof. Yuexian Zou](http://web.pkusz.edu.cn/adsp/)) and [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), respectively.
 
 # Publications
