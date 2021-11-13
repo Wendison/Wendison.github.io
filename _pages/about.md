@@ -12,7 +12,7 @@ redirect_from:
 Hi there! I'm a fourth-year PhD student from [Human-Computer Communications Laboratory (HCCL)](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory/) of [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk
 ), supervised by [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/). My current research interests include voice conversion, text-to-speech synthesis, automatic speech recognition, etc. Before joining CUHK, I received my M.S. and B.S. degrees from [Peking University](https://english.pku.edu.cn/) (PKU, supervised by [Prof. Yuexian Zou](http://web.pkusz.edu.cn/adsp/)) and [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), respectively. **I'm actively looking for industrial opportunities starting from Autumn of 2022, please feel free to contact me via <A href="mailto:dswang@se.cuhk.edu.hk">E-mail</A>.** 
 
-# Publications
+# Selected publications
 **I. Voice conversion & text-to-speech synthesis**
 - **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2106.10132)][[code](https://github.com/Wendison/VQMIVC)][[demo](https://wendison.github.io/VQMIVC-demo/)]
 - **Disong Wang**, Songxiang Liu, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, "Learning Explicit Prosody Models and Deep Speaker Embeddings for
@@ -33,6 +33,7 @@ Domain Adversarial Training and Mutual Information Minimization", *Interspeech 2
 - **Disong Wang**, Yuexian Zou, Wei Shi, "A Deep Convolutional Encoder-Decoder Model for Robust Speech Dereverberation", *DSP 2017*. [[paper](https://ieeexplore.ieee.org/document/8096126)]
 - **Disong Wang**, Yuexian Zou, Junhong Liu, Yichi Huang, "A Robust DBN-vector based Speaker Verification System under Channel Mismatch Conditions", *DSP 2016*. [[paper](https://ieeexplore.ieee.org/document/7868523)]
 - **Disong Wang**, Xiansheng Guo, Yuexian Zou, "Accurate and Robust Device-Free Localization Approach via Sparse Representation in Presence of Noise and Outliers", *DSP 2016*. [[paper](https://ieeexplore.ieee.org/document/7868545)]
+
 
 
 
