@@ -14,8 +14,8 @@ Hi there! I'm a fourth-year PhD student from [Human-Computer Communications Labo
 
 # Selected-publications
 **I. Voice conversion and speech synthesis**
-- **Disong Wang**, Shan Yang, Dan Su, Xunying Liu, Dong Yu, Helen Meng, "VCVTS: Multi-speaker Video-to-Speech synthesis via cross-modal knowledge transfer from voice conversion", *ICASSP 2022*. [[paper]()][[demo](https://wendison.github.io/VCVTS-demo/)]
-- **Disong Wang**, Songxiang Liu, Xixin Wu, Hui Lu, Lifa Sun, Xunying Liu, Helen Meng, "Speaker Identity Preservation in Dysarthric Speech Reconstruction by Adversarial Speaker Adaptation", *ICASSP 2022*. [[paper]()][[demo](https://wendison.github.io/ASA-DSR-demo/)]
+- **Disong Wang**, Shan Yang, Dan Su, Xunying Liu, Dong Yu, Helen Meng, "VCVTS: Multi-speaker Video-to-Speech synthesis via cross-modal knowledge transfer from voice conversion", *ICASSP 2022*. [[paper](https://arxiv.org/abs/2202.09081)][[demo](https://wendison.github.io/VCVTS-demo/)]
+- **Disong Wang**, Songxiang Liu, Xixin Wu, Hui Lu, Lifa Sun, Xunying Liu, Helen Meng, "Speaker Identity Preservation in Dysarthric Speech Reconstruction by Adversarial Speaker Adaptation", *ICASSP 2022*. [[paper](https://arxiv.org/abs/2202.09082)][[demo](https://wendison.github.io/ASA-DSR-demo/)]
 - **Disong Wang**, Liqun Deng, Yu Ting Yeung, Xiao Chen, Xunying Liu, Helen Meng, "VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-shot Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2106.10132)][[code](https://github.com/Wendison/VQMIVC)][[demo](https://wendison.github.io/VQMIVC-demo/)]
 - **Disong Wang**, Songxiang Liu, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, "Learning Explicit Prosody Models and Deep Speaker Embeddings for
 Atypical Voice Conversion", *Interspeech 2021*. [[paper](https://arxiv.org/abs/2011.01678)][[demo](https://wendison.github.io/VC-DSR-AC-demo/)]
