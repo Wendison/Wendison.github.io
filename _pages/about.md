@@ -9,8 +9,8 @@ redirect_from:
 ---
  
 # About-me 
-Hi there! I'm a fourth-year PhD student from [Human-Computer Communications Laboratory (HCCL)](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory/) of [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk
-), supervised by [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/). My current research interests include voice conversion, text-to-speech synthesis, automatic speech recognition, etc. Before joining CUHK, I received my M.S. and B.S. degrees from [Peking University](https://english.pku.edu.cn/) (PKU, supervised by [Prof. Yuexian Zou](http://web.pkusz.edu.cn/adsp/)) and [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), respectively. 
+Hi there! I received my Ph.D. degree from [Human-Computer Communications Laboratory (HCCL)](https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory/) of [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk
+), supervised by [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/). My research interests mainly focus on speech generation, e.g., voice conversion and text-to-speech synthesis. Before joining CUHK, I received my M.S. and B.S. degrees from [Peking University](https://english.pku.edu.cn/) (PKU, supervised by [Prof. Yuexian Zou](http://web.pkusz.edu.cn/adsp/)) and [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), respectively. 
 
 # Selected-publications
 **I. Voice conversion and speech synthesis**
