@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Disong Wang / 王迪松"
+title                    : "Disong Wang"
 title_separator          : "-"
 name                     : &name "Disong Wang"
 description              : &description "personal description"
